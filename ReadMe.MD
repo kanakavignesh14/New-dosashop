@@ -11,6 +11,6 @@ oil added
 * Adding ghee only
 
 #egg dosa
-*dosa batter added
+*dosa batter add
 * 1/2 eggs and karam added
 
