@@ -12,4 +12,5 @@ oil added
 
 #egg dosa
 *dosa batter added
-* egg and karam added
+* 1/2 eggs and karam added
+
