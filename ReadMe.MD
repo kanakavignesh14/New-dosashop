@@ -9,3 +9,7 @@ oil added
 * Add batter
 * karam added
 * Adding ghee only
+
+#egg dosa
+*dosa batter added
+* egg and karam added
